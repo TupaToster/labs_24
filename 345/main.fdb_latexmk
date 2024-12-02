@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729343125.57741 "/home/i-am-tost/los_projectados/labs_24/345/main.tex" "main.pdf" "main" 1729343127.50491 0
+["pdflatex"] 1732333681.21956 "/home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex" "main.pdf" "main" 1732333684.87483 0
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1727504693.48201 3308 eee81981029f67083258db36df06e523 ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1727504689.64209 3304 6a543c07045572737981351171e0505e ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1728119864.43692 3312 d199be9bd555944e2403193d58a0256a ""
@@ -11,7 +11,7 @@
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1728557382.4528 3264 03c2b9e4787a40d3b9c197c38b93b558 ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/lasl1200.tfm" 1728997650.17111 3472 6d14f8899639fa703bd66d6b31a67f8b ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1728120009.73547 3512 f3a56cfe95a159371df20f73d1eb107d ""
-  "/home/i-am-tost/los_projectados/labs_24/345/main.tex" 1729343125.40521 17384 e2941e8da16e81a5831d3ad15df41561 ""
+  "/home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex" 1732333680.91348 17408 7842eab9acfe15d826df3509a0879ad9 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1727349926 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1727349926 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -256,11 +256,10 @@
   "/usr/share/texmf-dist/tex/xmltex/passivetex/dummyels.sty" 1727349926 5924 19ddd8568e605e459e4dbff15f1f4cae ""
   "/usr/share/texmf-dist/tex/xmltex/passivetex/unicode.sty" 1727349926 23178 b38c9ca013147c18d84820ffac463e00 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1727349926 41588 b43d3e860a4f94167ee1e725ff526a72 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1728997999.88515 5314505 c65d55cfca6e0ce870072f996b6d0b8f ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1728997949 7192543 b55c3ba23377a018d81d4d71584f0606 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1731661782.66107 5314505 c65d55cfca6e0ce870072f996b6d0b8f ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1731661761 7192542 1c3e3246cf33b591741c4b4208443925 ""
   "lab.cls" 1729044368.89097 3265 a684320e03a8faeca6c3a99f97745796 ""
-  "main.aux" 1729343127.36171 3127 02cb694b65122434413d815a59d1cdc0 "pdflatex"
-  "main.tex" 1729343125.40521 17384 e2941e8da16e81a5831d3ad15df41561 ""
+  "main.aux" 1732333684.60999 3127 02cb694b65122434413d815a59d1cdc0 "pdflatex"
   "pics/1.jpg" 1729044368.8943 119669 e313836cb2587510014ab9a14365b950 ""
   "pics/2.jpg" 1729044368.8943 110277 ad56476428acccfd2fafb6198f1e3e39 ""
   "pics/3.jpg" 1729044368.8943 114680 567358f353628162897c860c6537f240 ""

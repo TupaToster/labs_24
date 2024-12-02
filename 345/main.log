@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.15)  19 OCT 2024 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.15)  23 NOV 2024 06:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/i-am-tost/los_projectados/labs_24/345/main.tex
-(/home/i-am-tost/los_projectados/labs_24/345/main.tex
+**/home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex
+(/home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (./lab.cls
@@ -1160,14 +1160,14 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  31337 strings out of 475550
- 733138 string characters out of 5785872
+ 733174 string characters out of 5785872
  1937187 words of memory out of 5000000
  52884 multiletter control sequences out of 15000+600000
  582381 words of font info for 106 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 117i,12n,115p,798b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,12n,115p,810b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (10 pages, 935804 bytes).
+Output written on main.pdf (10 pages, 935664 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream

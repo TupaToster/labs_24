@@ -87,7 +87,7 @@
 \begin{equation}
     \nu_0^\text{эксп} \approx 1574 \; \text{Гц}.
 \end{equation}
-В таблице \ref{res} указаны резонансные значения напряжений 
+В таблице \ref{res} указаны резонансные значения напряжений
 
 \begin{table}[]
     \centering
@@ -161,12 +161,12 @@
     \begin{tabular}{|l|l|l|l|l|}
         \hline
         $\mathbf{U_k}$ & $\mathbf{U_{k+n}}$ & $\mathbf{n}$ & $\mathbf{\Theta}$ & $\mathbf{Q}$  \\ \hline
-        0.2   & 0.3     & 3   & 0.0959   & 32.8 \\ \hline
-        0.2   & 0.4     & 7   & 0.0990   & 31.7 \\ \hline
-        0.4   & 0.5     & 7   & 0.0990   & 31.7 \\ \hline
-        0.3   & 0.5     & 11  & 0.0999   & 31.5 \\ \hline
+        3.4   & 5.4     & 1   & 0.42 & 8.38  \\ \hline
+        5.4   & 6.8     & 1   & 0.49 & 8.20  \\ \hline
+        6.9   & 8       & 1   & 0.59 & 6.58  \\ \hline
+        7.9   & 8.6     & 1   & 0.53 & 6.83 \\ \hline
     \end{tabular}
-    \caption{Расчёт добротности на установлении при $R=0$}
+    \caption{Расчёт добротности на установлении при $R=450$}
 \end{table}
 
 \begin{table}[h!]
@@ -174,12 +174,12 @@
     \begin{tabular}{|l|l|l|l|l|}
         \hline
         $\mathbf{U_m}$ & $\mathbf{U_{m+n}}$ & $\mathbf{n}$ & $\mathbf{\Theta}$ & $\mathbf{Q}$ \\ \hline
-        0.5            & 0.2              & 10           & 0.0916            & 34.3         \\ \hline
-        0.2            & 0.1              & 10           & 0.0693            & 45.3         \\ \hline
-        0.3            & 0.2              & 4            & 0.101             & 31.0         \\ \hline
-        0.6            & 0.4              & 5            & 0.0811            & 38.7         \\ \hline
+        9.4 & 6.3 &  1           & 0.40                 & 7.85         \\ \hline
+        6.3 & 4.2 &  1           & 0.41                 & 7.74         \\ \hline
+        4.2 & 3.0 &  1           & 0.33                 & 9.33         \\ \hline
+        3.0  & 2.0    & 1            & 0.41             & 7.75         \\ \hline
     \end{tabular}
-    \caption{Расчёт добротности на затухании при $R=0$}
+    \caption{Расчёт добротности на затухании при $R=450$}
 \end{table}
 
 \begin{table}[h!]
@@ -187,11 +187,11 @@
     \begin{tabular}{|l|l|l|l|l|}
         \hline
         $\mathbf{U_k}$ & $\mathbf{U_k+n}$ & $\mathbf{n}$ & $\mathbf{\Theta}$ & $\mathbf{Q}$ \\ \hline
-        0.04           & 0.15             & 12           & 0.392             & 8.00         \\ \hline
-        0.075          & 0.125            & 3            & 0.358             & 8.79         \\ \hline
-        0.1            & 0.15             & 10           & 0.393             & 7.99         \\ \hline
+        1.2 & 2.84  & 0.76 & 4.13\\ \hline
+        2.84 & 3.68 & 0.87 & 3.58\\ \hline
+        3.8 & 4.08  & 0.87 & 3.58\\ \hline
     \end{tabular}
-    \caption{Расчёт добротности на установлении при $R=100$ Ом}
+    \caption{Расчёт добротности на установлении при $R=1250$ Ом}
 \end{table}
 
 \begin{table}[h!]
@@ -199,34 +199,34 @@
     \begin{tabular}{|l|l|l|l|l|}
         \hline
         $\mathbf{U_m}$ & $\mathbf{U_m+n}$ & $\mathbf{n}$ & $\mathbf{\Theta}$ & $\mathbf{Q}$ \\ \hline
-        0.15           & 0.025            & 5            & 0.358             & 8.77         \\ \hline
-        0.075          & 0.025            & 3            & 0.366             & 8.58         \\ \hline
-        0.19           & 0.1              & 2            & 0.321             & 9.79         \\ \hline
+        4.28 & 4.0  & 0.36 & 46.43\\ \hline
+        4    & 1.6  & 0.86 & 3.42\\ \hline
+        1.6  & 0.84 & 0.55 & 4.87\\ \hline
     \end{tabular}
-    \caption{Расчёт добротности на затухании при $R=100$ Ом}
+    \caption{Расчёт добротности на затухании при $R=1250$ Ом}
 \end{table}
 
 Усредним эти значения:
 
 \begin{equation}
-    Q_{R=0} = 34 \pm 2
+    Q_{R=450} = 7.83 \pm 1.5
 \end{equation}
 \begin{equation}
-    Q_{R=100} = 8.6 \pm 0.2
+    Q_{R=1250} = 3.97 \pm 1.5
 \end{equation}
 
 \subsection{Теоретический расчёт}
 
 Определив параметры контура, занесём их в таблицу \ref{2}.
 
-\begin{table}[h]
+\begin{table}[h!]
     \centering
     \begin{tabular}{|l|l|l|}
         \hline
         $\mathbf{\nu}${\bf,  Гц} & $\mathbf{L}${\bf, мГн} & $\mathbf{R}${\bf, Ом} \\ \hline
-        50                       & 99.975                 & 22.910                \\ \hline
-        500                      & 99.953                 & 23.975                \\ \hline
-        1500                     & 99.961                 & 25.554                \\ \hline
+        50                       & 100                    & 44.6                \\ \hline
+        500                      & 99.953                 & 44.3                \\ \hline
+        1500                     & 99.961                 & 45.9                \\ \hline
     \end{tabular}
     \caption{Параметры RLC-контура}
     \label{2}
@@ -234,23 +234,9 @@
 
 На их основе рассчистаем $Q$:
 \begin{equation}
-    Q_{R=0} = 39.125 \pm 0.9
+    Q_{R=450} = 6.739 \pm 0.4
 \end{equation}
 \begin{equation}
-    Q_{R=100}=8.15 \pm 0.19
+    Q_{R=1250}= 2.574 \pm 0.3
 \end{equation}
-\section{Вывод}
-
-Обобщим все полученные результаты в табл. \ref{1}. Различные методы измерения с неплохой точностью согласуются между собой. Большая погрешность измерения $Q_1$ обусловлена недостаточной точностью вольтметра. Видно, что при возрастании активного сопротивления добротность контура ухудшается, так как увеличивается количество рассеиваемой энергии.
-\begin{table}[h!]
-    \centering
-    \begin{tabular}{|l|l||l|l|l|}
-        \hline
-        R      & R контура & $Q_1$      & $Q_2$         & $f(LRC)$         \\ \hline
-        0      & 25.554    & $33 \pm 8$ & $34 \pm 2$    & $39.125 \pm 0.9$ \\ \hline
-        100 Ом & 126.97    & $8 \pm 2$  & $8.6 \pm 0.2$ & $8.15 \pm 0.19$  \\ \hline
-    \end{tabular}
-    \caption{Результаты измерения добротности}
-    \label{1}
-\end{table}
 \end{document}

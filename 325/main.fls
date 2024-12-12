@@ -1,4 +1,4 @@
-PWD /home/i-am-tost/los_projectados/labs_24/325
+PWD /home/i-am-tost/los_projectados/labs/325
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT /home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex
@@ -480,6 +480,10 @@ INPUT ./pics/Screenshot_2.png
 INPUT ./pics/Screenshot_2.png
 INPUT ./pics/Screenshot_2.png
 INPUT ./pics/Screenshot_2.png
+INPUT ./pics/graph1.png
+INPUT ./pics/graph1.png
+INPUT ./pics/graph1.png
+INPUT ./pics/graph1.png
 INPUT /home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
 INPUT /home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
 INPUT /home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm

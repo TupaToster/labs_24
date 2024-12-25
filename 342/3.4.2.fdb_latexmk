@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1733973446.07977 "/home/i-am-tost/los_projectados/framework_for_labs/.lab/3.4.2.tex" "3.4.2.pdf" "3.4.2" 1733973446.82349 0
+["pdflatex"] 1734591521.12954 "/home/i-am-tost/los_projectados/labs/342/3.4.2.tex" "3.4.2.pdf" "3.4.2" 1734591522.58073 0
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1728119864.43692 3312 d199be9bd555944e2403193d58a0256a ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm" 1728121027.91126 3248 7c0b9d76a2cd84ed06764a4c6eea5de4 ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm" 1728121024.70135 3240 04766e423166ba63b7fbbf132b8618cb ""
@@ -7,7 +7,7 @@
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1727504687.67214 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1727504680.30565 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/home/i-am-tost/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1728557382.4528 3264 03c2b9e4787a40d3b9c197c38b93b558 ""
-  "/home/i-am-tost/los_projectados/framework_for_labs/.lab/3.4.2.tex" 1733973445.93484 7779 b613c033645b59a7a127b6f6b85f945c ""
+  "/home/i-am-tost/los_projectados/labs/342/3.4.2.tex" 1734591520.83099 7392 87ab758aa6ad0c1f4a09c95d1bc3213d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1727349926 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1727349926 1004 54797486969f23fa377b128694d548df ""
@@ -85,8 +85,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1733164688.06046 5314505 c65d55cfca6e0ce870072f996b6d0b8f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1733164647 7192547 6c704fa69b469b6059d73680236a34b4 ""
   "1.png" 1733545119.30163 18161 10a2a63bb78bf37707d9e1f2aca9f624 ""
-  "3.4.2.aux" 1733973446.73817 548 ab353dfdd4bc80849b625520ea8cb4db "pdflatex"
-  "lol.png" 1733973441.02817 116749 0f8e05f98964bb00742a55c09a530db9 ""
+  "3.4.2.aux" 1734591522.43421 548 ab353dfdd4bc80849b625520ea8cb4db "pdflatex"
+  "3.4.2.tex" 1734591520.83099 7392 87ab758aa6ad0c1f4a09c95d1bc3213d ""
+  "lol.png" 1734591400.32513 117759 c3ad5f04a81a270cdf37d6917e31e1b4 ""
   (generated)
   "3.4.2.aux"
   "3.4.2.log"

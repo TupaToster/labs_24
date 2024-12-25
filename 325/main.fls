@@ -1,7 +1,7 @@
 PWD /home/i-am-tost/los_projectados/labs/325
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex
+INPUT /home/i-am-tost/los_projectados/labs/325/main.tex
 OUTPUT main.log
 INPUT ./lab.cls
 INPUT lab.cls

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.2)  6 DEC 2024 05:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.2)  12 DEC 2024 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex
-(/home/i-am-tost/los_projectados/framework_for_labs/.lab/main.tex
+**/home/i-am-tost/los_projectados/labs/325/main.tex
+(/home/i-am-tost/los_projectados/labs/325/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (./lab.cls
@@ -1142,11 +1142,11 @@ File: pics/Screenshot_2.png Graphic file (type png)
 <use pics/Screenshot_2.png>
 Package pdftex.def Info: pics/Screenshot_2.png  used on input line 75.
 (pdftex.def)             Requested size: 512.14963pt x 229.86345pt.
-<pics/graph1.png, id=71, 966.2499pt x 579.24405pt>
+<pics/graph1.png, id=71, 1156.32pt x 650.43pt>
 File: pics/graph1.png Graphic file (type png)
 <use pics/graph1.png>
 Package pdftex.def Info: pics/graph1.png  used on input line 105.
-(pdftex.def)             Requested size: 512.14963pt x 307.03323pt.
+(pdftex.def)             Requested size: 512.14963pt x 288.07578pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1182,14 +1182,14 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  38326 strings out of 475550
- 840457 string characters out of 5785873
+ 840412 string characters out of 5785873
  1941187 words of memory out of 5000000
  59751 multiletter control sequences out of 15000+600000
  580384 words of font info for 102 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 117i,11n,115p,808b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,11n,115p,793b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (7 pages, 487022 bytes).
+Output written on main.pdf (7 pages, 524289 bytes).
 PDF statistics:
  205 PDF objects out of 1000 (max. 8388607)
  150 compressed objects within 2 object streams

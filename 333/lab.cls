@@ -5,7 +5,6 @@
 \LoadClass
     [12pt, a4paper, oneside, final]{article}
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                                 Математика                                  %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -72,6 +71,7 @@
 
 \RequirePackage{fancyref}
 \RequirePackage{fancyhdr}
+\RequirePackage{zref}
 
 \RequirePackage{secdot}
 \RequirePackage{caption}
